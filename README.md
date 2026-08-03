@@ -18,18 +18,14 @@ All badge packs live in [`packs/`](./packs) as base64-encoded JSON files.
 | Preview | Name |
 |---|---|
 | <img src="https://files.catbox.moe/gmnr21.png" width="40"/> | Hypesquad Balance |
-| <img src="https://files.catbox.moe/4sbc0b.png" width="40"/> | Partner |
-| <img src="https://files.catbox.moe/8ceph0.png" width="40"/> | Discord Moderator |
 | <img src="https://files.catbox.moe/xgr503.png" width="40"/> | Server booster |
 | <img src="https://files.catbox.moe/tlfwvy.png" width="40"/> | Subscriber since [ADD YOU DATE HERE] |
-| <img src="https://files.catbox.moe/800hvu.png" width="40"/> | Active developer |
 
 ## packs/DiscordBadges2.json
 
 | Preview | Name |
 |---|---|
 | <img src="https://files.catbox.moe/h9qtdv.png" width="40"/> | Last Meadow Online |
-| <img src="https://files.catbox.moe/n9f23s.png" width="40"/> | Partnered Server Owner |
 | <img src="https://files.catbox.moe/2w0szm.png" width="40"/> | Discord Bug Hunter |
 | <img src="https://files.catbox.moe/9p0gcz.png" width="40"/> | Discord Bug Hunter |
 | <img src="https://files.catbox.moe/b0qp1k.png" width="40"/> | HypeSquad Events |
