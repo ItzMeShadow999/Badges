@@ -19,12 +19,6 @@ All badge packs live in [`packs/`](./packs) as base64-encoded JSON files.
 |---|---|
 | <img src="https://files.catbox.moe/gmnr21.png" width="40"/> | Hypesquad Balance |
 | <img src="https://files.catbox.moe/xgr503.png" width="40"/> | Server booster |
-| <img src="https://files.catbox.moe/tlfwvy.png" width="40"/> | Subscriber since [ADD YOU DATE HERE] |
-
-## packs/DiscordBadges2.json
-
-| Preview | Name |
-|---|---|
 | <img src="https://files.catbox.moe/h9qtdv.png" width="40"/> | Last Meadow Online |
 | <img src="https://files.catbox.moe/2w0szm.png" width="40"/> | Discord Bug Hunter |
 | <img src="https://files.catbox.moe/9p0gcz.png" width="40"/> | Discord Bug Hunter |
@@ -34,12 +28,12 @@ All badge packs live in [`packs/`](./packs) as base64-encoded JSON files.
 
 | Preview | Name |
 |---|---|
-| <img src="https://files.catbox.moe/m2asmz.png" width="40"/> | Nitro Emerald |
 | <img src="https://files.catbox.moe/kzflhi.png" width="40"/> | Nitro Bronze |
 | <img src="https://files.catbox.moe/tdxs6s.png" width="40"/> | Nitro Silver |
 | <img src="https://files.catbox.moe/h53hmv.png" width="40"/> | Nitro Gold |
 | <img src="https://files.catbox.moe/97v7ci.png" width="40"/> | Nitro Platinum |
 | <img src="https://files.catbox.moe/4wgcya.png" width="40"/> | Nitro Diamond |
+| <img src="https://files.catbox.moe/tlfwvy.png" width="40"/> | Subscriber since [ADD YOU DATE HERE] |
 
 ## packs/NitroBadges2.json
 
@@ -47,6 +41,7 @@ All badge packs live in [`packs/`](./packs) as base64-encoded JSON files.
 |---|---|
 | <img src="https://files.catbox.moe/3owhsp.png" width="40"/> | Nitro Opal |
 | <img src="https://files.catbox.moe/7bi036.png" width="40"/> | Nitro Ruby |
+| <img src="https://files.catbox.moe/m2asmz.png" width="40"/> | Nitro Emerald |
 
 ## packs/pastelBadges.json
 
