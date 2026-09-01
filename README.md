@@ -64,3 +64,11 @@ All badge packs live in [`packs/`](./packs) as base64-encoded JSON files.
 | <img src="https://i.imgur.com/H2Bfq46.png" width="40"/> | Solitary confinement |
 | <img src="https://i.imgur.com/vL8IET8.png" width="40"/> | he I use Discord |
 | <img src="https://i.imgur.com/IHNMUJF.png" width="40"/> | lets paint <3 |
+
+## packs/GamingBadges.json
+
+| Preview | Name |
+|---|---|
+| <img src="https://i.ibb.co/Fky3w5Wb/Untitled2-removebg-preview.png" width="40"/> | 𝕎𝕒𝕜𝕖 𝕞𝕖, 𝕨𝕙𝕖𝕟 𝕪𝕠𝕦 𝕟𝕖𝕖𝕕 𝕞𝕖 |
+| <img src="https://i.ibb.co/mrHL9FnF/Untitled-removebg-preview.png" width="40"/> | ＲＩＰ ΛＮＤ ＴΣΛＲ |
+
