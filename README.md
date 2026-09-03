@@ -78,3 +78,4 @@ All badge packs live in [`packs/`](./packs) as base64-encoded JSON files.
 |---|---|
 | <img src="https://i.ibb.co/k2ZstX0N/images-removebg-preview.png" width="40"/> | ᴡʜᴇʀᴇ ᴅɪᴅ ʏᴏᴜ ɢᴇᴛ ᴛʜᴀᴛ ʙᴏᴅʏ? ᴛʜᴀᴛ ᴏɴᴇ ʏᴏᴜ'ʀᴇ ɪɴ ʀɪɢʜᴛ ɴᴏᴡ? |
 | <img src="https://i.ibb.co/Kjy91mwF/wv88mtfnmky71-removebg-preview.png" width="40"/> | 𝐵𝓊𝓉 𝓉𝒽𝒶𝓉'𝓈 𝒿𝓊𝓈𝓉 𝒶 𝓉𝒽𝑒𝑜𝓇𝓎, 𝒶 𝒢𝒶𝓂𝑒 𝒯𝒽𝑒𝑜𝓇𝓎! |
+| <img src="https://i.ibb.co/B2kNywkR/425-4253660-transparent-markiplier-png-fun-png-download-removebg-preview.png" width="40"/> | 𝙉𝙤 𝙨𝙤𝙜𝙜𝙮 𝙗𝙤𝙩𝙩𝙤𝙢𝙨 𝙝𝙚𝙧𝙚. |
