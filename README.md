@@ -73,6 +73,7 @@ All badge packs live in [`packs/`](./packs) as base64-encoded JSON files.
 | <img src="https://i.ibb.co/mrHL9FnF/Untitled-removebg-preview.png" width="40"/> | ＲＩＰ ΛＮＤ ＴΣΛＲ |
 | <img src="https://i.ibb.co/CDFLD5N/images-removebg-preview-2.png" width="40"/> | Ｂ♢Ｙ |
 | <img src="https://i.ibb.co/7J4bj8FQ/images-1-removebg-preview.png" width="40"/> | 𝙈𝙖𝙠𝙞𝙣𝙜 𝙩𝙝𝙚 𝙢𝙤𝙩𝙝𝙚𝙧 𝙤𝙛 𝙖𝙡𝙡 𝙤𝙢𝙚𝙡𝙚𝙩𝙨, 𝙅𝙖𝙘𝙠. 𝘾𝙖𝙣'𝙩 𝙛𝙧𝙚𝙩 𝙤𝙫𝙚𝙧 𝙚𝙫𝙚𝙧𝙮 𝙚𝙜𝙜. |
+| <img src="https://i.ibb.co/8g3WqQrr/images-2-removebg-preview.png" width="40"/> | 𝚈𝚘𝚞 𝚊𝚏𝚛𝚊𝚒𝚍 𝚘𝚏 𝚝𝚑𝚎 𝚍𝚊𝚛𝚔? |
 
 ## packs/FamousBadges.json
 
